@@ -1,6 +1,6 @@
-# Story Engine Kit ratification digest — 2026-07-22T16:38:30Z
+# Story Engine Kit ratification digest — 2026-07-22T16:40:05Z
 head: ebfcfd66b770eb87fb58e0d6f49d15e9434ecd32
-ratifications_sha256: 9a374af94566b295d2857362a12582b41ca13e5cad12beac0d88d67ac68e0346
+ratifications_sha256: 5983698c9f89d6c77a1e7cbe5892885ab751d73fe0fa9aeeb3fa14b5c08a8425
 constitution_tree: a298e3b3cca680eec55127417470ebb1edcd1360
 governance_tree: 44b32b2fe837a9385e0acae70bbdef00b2f00e54
 signature: 0baad76d7b751490ce7f264ed652925dcd7022d75f5df5c19d7bc645e4d834ad.sig 1637f7e56087eb75871ead25b99a254c12fb6b0f7f03debbd773be657abe8d43
