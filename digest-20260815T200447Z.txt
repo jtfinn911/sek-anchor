@@ -1,5 +1,5 @@
-# Story Engine Kit ratification digest — 2026-08-15T04:52:39Z
-head: 373a7493fa8d2b50c32aec2e181d80bb54fe5fb8
+# Story Engine Kit ratification digest — 2026-08-15T20:04:46Z
+head: 741590062e6183c7b2aab69e5b0f800f6933677a
 ratifications_sha256: 62bdd1c686255ef4a8165803b26f06416b5fe3096997deb996510a5b9a811e9d
 ratifications_part_sha256: PART-01.md 964319c5428b1dd55eea47b55a2539fad190ca75004c4368d6ed31ba34b74987
 ratifications_resolved_entries: 139
